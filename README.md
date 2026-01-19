@@ -16,7 +16,14 @@ I am a detail-oriented Data Engineer at the start of my journey, fueled by a pas
 <img width="35" height="35" alt="Amazon_Web_Services_Logo svg" src="https://github.com/user-attachments/assets/c1a262bf-e9ce-45f9-a49a-66dfb40d9764" />
 <img width="35" height="35" alt="visual-studio-code" src="https://github.com/user-attachments/assets/ade8a864-9021-4e76-bf86-f0bbefa6a0ef" />
 <img width="35" height="35" alt="download" src="https://github.com/user-attachments/assets/e287039c-c844-42c9-a8d7-1e0dfaa7ef19" /> 
-<img width="35" height="35" alt="pin_large" src="https://github.com/user-attachments/assets/8cd0ac24-603a-4025-b445-d0b7cf86cfa1" />  & actively learning others
+<img width="35" height="35" alt="pin_large" src="https://github.com/user-attachments/assets/8cd0ac24-603a-4025-b445-d0b7cf86cfa1" /> 
+<img width="35" height="35" alt="png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail" src="https://github.com/user-attachments/assets/19bf441e-e98b-4208-8a39-21a282d7dca7" />
+<img width="35" height="35" alt="docker-icon-logo-png_seeklogo-643955" src="https://github.com/user-attachments/assets/acd65ba0-279a-4ac7-9813-cc1698f2c195" />
+
+
+
+
+& actively learning others
 
 
 
